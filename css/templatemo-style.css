@@ -456,6 +456,7 @@ input { height: 50px; }
   }
   .portfolio-overlay  { padding-top: 10px; }
   .carousel-cell .fa { font-size: 50px; height: 100px ; width: 100px; }
+  .carousel-cell p { font-size: 10px; }
 }
 
 @media only screen and (min-width: 1023px) {
