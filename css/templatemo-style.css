@@ -362,6 +362,15 @@ body { font-family: sans-serif; }
 }
 /* END ABOUT */
 
+.tm-cloud {
+  background: url('../images/images.png');
+  align-self: center;
+  background-size: 550px 500px;
+  background-repeat: no-repeat;
+  padding-top: 60px;
+  padding-bottom: 100px;
+}
+
 /* START SOCIAL */
 .tm-social {
   text-transform: uppercase;
