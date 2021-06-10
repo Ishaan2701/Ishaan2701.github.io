@@ -450,13 +450,13 @@ input { height: 50px; }
 .tm-contact p { padding-top: 40px; }
 /* END CONTACT */
 
-@media only screen and (max-width: 768px){
+@media only screen and (max-width: 767px){
   [class*="col-"] {
     width: 100%;
   }
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1023px) {
   /* For desktop: */
   .col-1 {width: 8.33%;}
   .col-2 {width: 16.66%;}
@@ -472,7 +472,7 @@ input { height: 50px; }
   .col-12 {width: 100%;}
 }
 
-@media only screen and (min-width: 600px) and (max-width:992px ){
+@media only screen and (min-width: 768px) and (max-width:1023px ){
   /* For tablets: */
   .col-s-1 {width: 8.33%;}
   .col-s-2 {width: 16.66%;}
